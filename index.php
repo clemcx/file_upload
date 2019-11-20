@@ -8,7 +8,7 @@
 <html>
 <body>
 
-<form action=" upload.php" method="post" enctype="multipart/form-data">
+<form action=" " method="post" enctype="multipart/form-data">
     Choisissez votre fichier<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
                                   integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
                                   crossorigin="anonymous">
